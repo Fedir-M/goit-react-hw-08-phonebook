@@ -35,7 +35,7 @@ export const App = () => {
 
 /*
 [
-      { id: 'id-1', name: 'David Beckham', number: '111-11-11' },
+      
       { id: 'id-2', name: 'Luis Suárez', number: '222-22-22' },
       { id: 'id-3', name: 'Mohamed Salah', number: '333-33-33' },
       { id: 'id-4', name: 'Virgil van Dijk', number: '444-44-44' },
