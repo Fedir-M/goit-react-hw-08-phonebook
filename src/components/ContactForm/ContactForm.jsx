@@ -37,7 +37,7 @@ const ContactForm = () => {
         title={'Number'}
         type={'tel'}
         name={'number'}
-        placeholder={'Number XXX-XXX-XXXX'}
+        placeholder={'Number XXX-XX-XX'}
         pattern={'[0-9]{3}-[0-9]{2}-[0-9]{2}'}
       />
       <Button btnType={'submit'}>
